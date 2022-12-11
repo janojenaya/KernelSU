@@ -5,7 +5,7 @@ A Kernel based root solution for Android GKI.
 ## Usage
 
 1. Flash a custom kernel with KernelSU, you can build it yourself or use prebuilt boot.img.
-2. Install Manager App and enjoy :)
+2. Install Manager App and enjoy :):)
 
 ## Build
 
